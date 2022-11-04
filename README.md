@@ -4,4 +4,4 @@ by Ughulu Benedict
 
 ## Preview
 
-![preview](../scr/preview.JPEG)
+![preview](./scr/preview.JPEG)

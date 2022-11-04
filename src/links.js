@@ -38,5 +38,12 @@ export const links = [
         url: "https://books.zuri.team/design-rules",
         linkID: "book__design"
     },
+
+    {
+        id: 7,
+        name: "contact",
+        url: "/contact",
+        linkID: "contact"
+    }
 ]
 
