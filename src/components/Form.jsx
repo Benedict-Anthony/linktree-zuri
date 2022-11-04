@@ -62,7 +62,8 @@ const Form = () => {
                     <p>You agree to providing your data to Benedict who may contact you</p>
                 </div>
                 <button type="submit" id='btn__submit' className='button' style={{
-                    backgroundColor: !disabled && '#B2DDFF'
+                    backgroundColor: !disabled && '#B2DDFF',
+                    cursor: !disabled && 'not-allowed'
                 }}>Send Message</button>
             </form>
 
