@@ -244,6 +244,7 @@ body {
 
 .contact .contact__form .aggree input {
   cursor: pointer;
+  outline: none;
 }
 
 .contact .contact__form button {
